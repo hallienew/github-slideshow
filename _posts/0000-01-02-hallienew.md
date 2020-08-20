@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Go placidly amid the noise and haste"
 Use the left arrow to go back!
